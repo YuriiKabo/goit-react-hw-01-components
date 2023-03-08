@@ -1,0 +1,18 @@
+.transaction_history {
+  margin: 40px 0 0 0;
+  width: 874px;
+  outline: 1px solid #cecece;
+}
+.transaction_history thead {
+  background-color: #00bcd5;
+  color: #ffffff;
+}
+.transaction_history tr {
+  outline: 1px solid #cecece;
+  height: 50px;
+}
+
+.transaction_history td {
+  text-align: center;
+  outline: 1px solid #cecece;
+}
