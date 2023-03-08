@@ -16,3 +16,7 @@
   text-align: center;
   outline: 1px solid #cecece;
 }
+
+.transaction_history tr:nth-child(even) {
+  background-color: rgb(240, 240, 240);
+}
